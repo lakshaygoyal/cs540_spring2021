@@ -24,6 +24,9 @@
   color: #959396 !important;
 }
 
+.box {
+  width: 50%;
+}
 body {
   /* background-color: #fafafa; #2c3e50; */
   /* font-family: 'Open Sans', sans-serif; */
